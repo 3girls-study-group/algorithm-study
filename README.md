@@ -22,7 +22,7 @@ Cancel changes
 
 ## PR, Commit Message, 파일 및 폴더 구조 규칙
 ### Pull Request
-- [Programmers-폴더명] 이름
+- 📝 [Programmers-폴더명] 이름
 
 ### Commit Message
 - 📝 [Programmers-문제번호] 문제명
