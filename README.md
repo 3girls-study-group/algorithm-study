@@ -25,7 +25,7 @@ Cancel changes
 - [Programmers-폴더명] 이름
 
 ### Commit Message
-- [Programmers-문제번호] 문제명
+- 📝 [Programmers-문제번호] 문제명
 
 ### 프로그래머스
 - Programmers/[본인이름]/폴더명/문제명.js(java)
