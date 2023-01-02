@@ -26,6 +26,7 @@ Cancel changes
 
 ### Commit Message
 - 📝 [Programmers-문제번호] 문제명
+- ex) 📝 [Programmers-1845] 폰켓몬
 
 ### 프로그래머스
 - Programmers/[본인이름]/폴더명/문제명.js(java)
