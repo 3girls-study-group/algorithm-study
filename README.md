@@ -35,7 +35,7 @@
 ### [코딩테스트 고득점 Kit (프로그래머스)](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 | 주차 | 유형 | 문제1 | 문제2 | 문제3 | 문제4 | 문제5 | 문제6 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1주차 | 해시 | 폰켓몬 | 위장 |완주하지 못한 선수 |
+| 1주차 | [해시](https://school.programmers.co.kr/learn/courses/30/parts/12077) | 폰켓몬 | 위장 |완주하지 못한 선수 |
 | 2주차 | 스택/큐 | 기능개발 | 올바른 괄호 | 같은 숫자는 싫어 |
 | 3주차 | 힙(Heap) | 이중우선순위큐 | 디스크 컨트롤러 |
 | 4주차 | 정렬 | k번째 수 | H-Index | 가장 큰 수 |
