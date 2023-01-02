@@ -1,4 +1,4 @@
-# algorithm-study
+# 📚 algorithm-study
 Cancel changes
 - 기간: 2023년 01월 ~
 - 요일 : 수요일 오후 7시
